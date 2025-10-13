@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F94A1137-32C6-D491-E194-02A8758DE8B7}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ScriptsPractica/Loops.cs">
+    <Files>
+      <File FileName="Assets/ScriptsPractica/Conditionals.cs" Line="3" Column="1" />
+      <File FileName="Assets/ScriptsPractica/Loops.cs" Line="66" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MartaDominguezCid" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ScriptsPractica" expanded="True">
+                <Node name="Conditionals.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b9a63cc5-cd9b-4a8c-98ea-208ecddda477" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
